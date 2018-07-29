@@ -20,6 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rake', '~> 12.3'
 
-  spec.add_runtime_dependency 'json', '~> 2.1'
+  #spec.add_runtime_dependency 'json', '~> 2.1'
   spec.add_runtime_dependency 'httparty', '~> 0.16'
 end
